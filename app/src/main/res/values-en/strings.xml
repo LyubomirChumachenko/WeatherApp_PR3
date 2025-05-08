@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvWeather">Weather</string>
+    <string name="app_name">WeatherApp</string>
+    <string name="textPlaceholder">Click on the + and add the first city</string>
+    <string name="language_selected">Selected language: %s</string>
+    <string name="btnDelete">Delete</string>
+    <string name="tvWind">Wind</string>
+    <string name="tvIKV">AQI</string>
+</resources>

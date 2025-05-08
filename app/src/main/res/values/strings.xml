@@ -1,0 +1,15 @@
+<resources>
+
+
+    <string name="next_button_desc" translatable="false">Подтвердить выбор</string>
+
+    <string name="tvWeather">Погода</string>
+    <string name="app_name">Погода</string>
+    <string name="textPlaceholder">Нажмите на + и добавьте первый город</string>
+    <string name="language_selected">Выбран язык: %s</string>
+    <string name="btnDelete">Удалить</string>
+    <string name="tvWind">Ветер</string>
+    <string name="tvIKV">ИКВ</string>
+
+
+</resources>
